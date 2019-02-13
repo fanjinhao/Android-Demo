@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\6c03fda397a5fa2db3c87073e257643f8f8dc211\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a150ce759c0530a3d99809a14e93c88c16af2dcf">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_0a75b43c5709016abeeb6f7b532ed3e9ccd7a736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\f99d64f8c4154185bc0bfcee946318a39f690534\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_7662fe2bfda2b3651f3a0269e5d7ec4c93914c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\de169130d641aebf455c28e3dadf185c8fa46416\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_d6e148c27bf87b921ee889c66433fd867ad25e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\6a6eedbaa2fd54fc1b5629254533329b5daa0f1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_e7adc92a506cf614c78787f4a4a5e0770345bf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\7253fc158ae848e5eaf1b28acb527b0be1046552\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_5f696e971416106cc1f52da3aa5c3bb22553e4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6c8e520b4b8bc88684c41fa789e63cce32bc80c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\20a4e6037fc991b3621168feaade944f90c5f3c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_9a094a625fae61369880c46abaa7f4c7cdd94a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\f1cba1861ee098c89ef6b588d0d0f56e9d3ac1da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_beb18583765cafbead95949eb2550e712d4b946d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\b6dff86e178829a24335f44a053093d424d32367\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d798a0cb24c434231cbca3652b6e146f01c776e9">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_abe85a8201ca864a849881f5908910123d121477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\de97364eba9cd542fe1ea9033d2f65adb9c9bcba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_ec39c328f92a67b51b9aa33527e2d4d95f5f8603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\66e5949b4a7fe71cd878e9ebf07d6d6f0147f71c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_20fd84f4deeb075e528e5c7cc5bc28ecfe90bc89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\f7c749938776c6295544db7b240dcdfaee39335f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_ece9c46d1018666bcadb01dc15b385e78584e861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chen\.android\build-cache\af343d3a0f2e1881ca3d60a4569b164df2c514f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\MIUI\Android-Demo\faceppdemo\build\intermediates\pre-dexed\debug\classes_c01c8b976b0cabc1e21e87017def3f66a5f3c3b7.jar" />
+    </item>
+
+</items>
